@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Macdrien
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adrien-bouysou)
+[![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=firefox&logoColor=FF7139)](https://gkassym.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/macdrien12)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/macdrien)
+
+I'm a junior backend develop with some frontend experiences to.
+
+<img src="https://api.daily.dev/devcards/628dedba10a54ea18d62570082b69b4d.png?r=anf" width="300" alt="Adrien Bouyssou's Dev Card"/>
 
 <!--
 **macdrien/macdrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
