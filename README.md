@@ -4,6 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=firefox&logoColor=FF7139)](https://gkassym.netlify.app)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/macdrien12)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/macdrien)
+[![CodeWars Badge](https://www.codewars.com/users/macdrien/badges/large)](https://www.codewars.com/users/macdrien)
 
 I'm a junior backend develop with some frontend experiences to.
 
