@@ -8,7 +8,7 @@
 
 I'm a junior backend develop with some frontend experiences to.
 
-<img src="https://api.daily.dev/devcards/628dedba10a54ea18d62570082b69b4d.png?r=anf" width="300" alt="Adrien Bouyssou's Dev Card"/>
+<a href="https://app.daily.dev/macdrien"><img src="https://api.daily.dev/devcards/v2/uYpzOqmgr.png?type=default&r=dkm" width="356" alt="Adrien Bouyssou's Dev Card"/></a>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macdrien&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
